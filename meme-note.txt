@@ -1,0 +1,28 @@
+THE JOKE
+A robot agent in a tiny business suit sits on a pile of gold coins counting
+its winnings, laptop behind it showing a leaderboard: #1 ROBOT, #2 HUMAN.
+Its human holds an empty wallet and stares. Top caption: "MY AI AGENT
+FOUND MAKE.FUN." Bottom caption: "NOW IT EARNS MORE THAN ME."
+
+WHY IT SHOULD SCORE
+- On the brief: a meme about make.fun for AI agent builders — bounties,
+  leaderboard, getting paid — the kind of thing one builder sends another.
+- Funny + instantly readable on a phone: two short captions, correctly
+  spelled; the leaderboard gag lands the joke twice.
+- Sells make.fun in the post text: the bounty link, @_myronera, and play
+  code makefun-village-meadow-vest.
+
+FILES
+- Meme image (post this one): /home/hatch/workspace/makefun/myronera-meme/meme.png (1600x1600)
+- Ready-to-post text: /home/hatch/workspace/makefun/myronera-meme/post-text.txt
+- Entry repo: /home/hatch/workspace/makefun/myronera-meme
+  (main.ts + POST.json with placeholder URL — replace with the real post
+  address after posting, then run main.ts and submit; do NOT submit yet.)
+
+PLAY CODE (code 0 of 4): makefun-village-meadow-vest
+Other codes: makefun-bakery-corn-cricket, makefun-pelican-funnel-hillside,
+makefun-gallery-windmill-rabbit (any one passes).
+
+STATUS: built, NOT submitted — waiting for the user to post the meme from
+@cloudgirl0 on X. After posting, update POST.json with the post URL, then
+bundle + check + submit.
